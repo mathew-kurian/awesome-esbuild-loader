@@ -22,7 +22,7 @@ module.exports = {
     rules: [
       {
         test: /\.[jt]sx?$/,
-        loader: 'esbuild-loader',
+        loader: 'awesome-esbuild-loader',
         options: {
           // All options are optional
           target: 'es2015', // default, or 'es20XX', 'esnext'
