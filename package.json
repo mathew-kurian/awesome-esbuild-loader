@@ -1,6 +1,6 @@
 {
   "name": "awesome-esbuild-loader",
-  "version": "1.0.0",
+  "version": "1.0.0-development",
   "main": "src/index.js",
   "scripts": {
     "test": "jest --env node"
