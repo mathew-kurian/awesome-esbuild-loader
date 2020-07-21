@@ -1,0 +1,39 @@
+{
+  "name": "awesome-esbuild-loader",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --env node"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "awesome",
+    "esbuild",
+    "webpack",
+    "loader"
+  ],
+  "author": "Mathew Kurian <mwkurian@gmail.com.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathew-kurian/awesome-esbuild-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathew-kurian/awesome-esbuild-loader/issues"
+  },
+  "homepage": "https://github.com/mathew-kurian/awesome-esbuild-loader#readme",
+  "description": "Useful Grid algorithm from Material-UI (https://github.com/mui-org/material-ui)",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "esbuild": "^0.6.5",
+    "loader-utils": "^2.0.0"
+  }
+}
