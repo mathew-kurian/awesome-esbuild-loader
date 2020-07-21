@@ -1,5 +1,7 @@
 # awesome-esbuild-loader
 
+[![npm version](https://badge.fury.io/js/awesome-esbuild-loader.svg)](https://badge.fury.io/js/awesome-esbuild-loader)
+
 [esbuild](https://github.com/evanw/esbuild) is by far one of the fastest TS/ESNext to ES6 compilers, so it makes sense to use it over Babel/TSC with webpack to take advantage of both worlds (Speed and the webpack ecosytem).
 
 ## Install
